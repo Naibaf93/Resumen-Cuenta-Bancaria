@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
+
+.logo img{
+    height: 300px;
+    width: 300px;
+}
+
+.cuenta{
+    font-size: 25px;
+}
+
+.saldo{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.saldo p{
+    margin: 1rem;
+}
+
+.saldo img{
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 90px;
+    vertical-align: middle;
+}
+
+.status{
+    font-size: 20px;
+}
